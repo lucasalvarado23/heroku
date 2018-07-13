@@ -41,9 +41,9 @@ class Home extends Component {
       })
   }
 
-  login = () => {
-    this.props.auth.login();
-  }
+  // login = () => {
+    //this.props.auth.login();
+ // }
 
 
   render() {
